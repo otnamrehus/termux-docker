@@ -110,7 +110,7 @@ Podman:
 
 ## Option Installation Container
 
-Called :
+Called Installation or Execution Container:
 
 ```.sh
 ./install-termux.sh
