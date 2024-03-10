@@ -108,6 +108,15 @@ Podman:
 ./build-all.sh --podman
 ```
 
+## Option Installation Container
+
+Called :
+
+```.sh
+./install-termux.sh
+```
+
+
 ## Known issues
 
 There a number of known issues which may not be resolved:
